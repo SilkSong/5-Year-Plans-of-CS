@@ -24,15 +24,3 @@
 * 每天提交 Github, 记录学习过程  (指标: 年底提交率 > 80%)
 * 每天学习2个小时，周末每天学习6个小时 (指标: 学习时间 > 80%)
 
-## 2025
-
-## 课程整理
-
-数据基础：
-
-* 微积分: [MIT Calculus Course](https://csdiy.wiki/%25E6%2595%25B0%25E5%25AD%25A6%25E5%259F%25BA%25E7%25A1%2580/MITmaths/)
-* 线性代数: [MIT18.06: Linear Algebra](https://csdiy.wiki/%25E6%2595%25B0%25E5%25AD%25A6%25E5%259F%25BA%25E7%25A1%2580/MITLA/)
-
-信息论入门
-
-* [MIT6.050J: Information theory and Entropy](https://csdiy.wiki/%25E6%2595%25B0%25E5%25AD%25A6%25E5%259F%25BA%25E7%25A1%2580/information/) 
