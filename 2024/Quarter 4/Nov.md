@@ -13,3 +13,4 @@
 * 了解了 os.environ 并不是具体储存在哪里，而是存在内存里，用 dotenv 库可以加下 .env 文件到环境变量
 * 多行 f-string
 *  Jupyter Notebook: M-Markdown 和 Y-Code 切换
+*  **`true or 1/0 and False`: 返回 True**
