@@ -17,3 +17,13 @@
 * 如果不自行初始化, 输出默认值，布尔值默认是 false, 除了基本类型, 默认值是 null
 * final 修饰常量, 表示赋值后不可更改
 
+
+## 2025.3.26
+
+#### 后端开发
+
+* MyBatisPlus 的链式调用: 
+    * last() 是 LambdaQueryWrapper 方法，它的作用是直接在 SQL 语句的末尾追加原生 SQL 语法，不进行任何 SQL 关键字的检查或拼接优化, Oracle 查询最新的一条数据: `last("FETCH FIRST 1 ROWS ONLY")`
+* 
+
+
