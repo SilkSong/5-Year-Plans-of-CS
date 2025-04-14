@@ -24,6 +24,5 @@
 
 * MyBatisPlus 的链式调用: 
     * last() 是 LambdaQueryWrapper 方法，它的作用是直接在 SQL 语句的末尾追加原生 SQL 语法，不进行任何 SQL 关键字的检查或拼接优化, Oracle 查询最新的一条数据: `last("FETCH FIRST 1 ROWS ONLY")`
-* 
 
 
