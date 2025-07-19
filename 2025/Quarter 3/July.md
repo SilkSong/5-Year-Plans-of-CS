@@ -20,6 +20,13 @@
 2025.7.10
 * MyBatis 教程, 配置, ResultMap等
 
+## Week 3
+
+2025.7.19
+
+* MyBatis 教程, Log4j
+* 整理 AI 资料
+
 
 
 
