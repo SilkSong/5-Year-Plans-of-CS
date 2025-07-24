@@ -31,5 +31,25 @@
 
 * MyBatis 教程
 
+## Week 4
+
+2025.7.23
+
+* vim 操作: 
+    1. 搜索: /pattern
+    2. 跳转匹配结果: n -> 下一个; N -> 上一个
+* MyBatis-Plus 的 apply 函数用法
+
+
+2025.7.24
+
+* MyBatis: 使用注解开发
+* `find . -name 文件名`: 查找当前目录下是否有该文件
+
+2025.7.25
+
+* MyBatis: 注解增删改查
+* MyBatis: Lombok 插件
+
 
 
