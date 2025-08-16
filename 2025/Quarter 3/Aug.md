@@ -34,3 +34,9 @@
 2025.8.13
 
 * 快速看完了 Spring 剩余教程, 包括动态代理, AOP, 整合 Mybatis, 事务等等, 看的比较草率, 感觉用处不大, 希望在 SpringBoot 那里可以完整学习
+
+
+2025.8.16
+
+* `reader.readLine()` 会读取当前行的内容 (第一行)，并移动指针到下一行的开头(即第二行)
+* 开始了 SpringMVC 的学习, 回顾了 MVC 的基本架构, 回顾(了解)了 Servlet 的知识, 对 SpringMVC 的执行原理, 用 `DispatcherServlet` 还有一系列的 `handleMapper` `handlerAdapter` 进行了了解, 然后学习了注解进行 SpringMVC 开发, 注解还是太方便了, 框架帮我们做了太多的事
