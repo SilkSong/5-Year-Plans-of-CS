@@ -39,4 +39,12 @@
 2025.8.16
 
 * `reader.readLine()` 会读取当前行的内容 (第一行)，并移动指针到下一行的开头(即第二行)
-* 开始了 SpringMVC 的学习, 回顾了 MVC 的基本架构, 回顾(了解)了 Servlet 的知识, 对 SpringMVC 的执行原理, 用 `DispatcherServlet` 还有一系列的 `handleMapper` `handlerAdapter` 进行了了解, 然后学习了注解进行 SpringMVC 开发, 注解还是太方便了, 框架帮我们做了太多的事
+* 开始了 SpringMVC 的学习, 回顾了 MVC 的基本架构, 回顾(了解)了 Servlet 的知识, 对 SpringMVC 的执行原理, 用 `DispatcherServlet` 还有一系列的 `handleMapper` `handlerAdapter` 进行了了解, 然后学习了注解进行 SpringMVC 开发, 注解还是太方便了, 框架帮我们做了太多的事, 然后是 `@RequestParam` `@GetRequest` 等注解的使用
+
+2025.8.17
+
+* 快速看完了 SpringMVC 视频
+* 了解了JSON, 了解了JSON解析的三个库: Jackson, FastJSON2, Hutools.JsonUtil
+* 学习了 `JUnit` 测试的一些心得, 包括 SpringBoot 框架下主程序入口, @SpringApplication的包扫描原则, 设计到 test 和 其他 Bean 的目录结构等等, Spring 的扫描是基于包名，而不是源代码物理目录
+* SQL: `to_date('2025-08-11 13:23:32', 'YYYYY-MM-DD HH24:MI:SS')`
+* JAVA: `simpledateFormat("yyyy-MM-dd HH:mm:ss")`
