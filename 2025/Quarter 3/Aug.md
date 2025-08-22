@@ -48,3 +48,9 @@
 * 学习了 `JUnit` 测试的一些心得, 包括 SpringBoot 框架下主程序入口, @SpringApplication的包扫描原则, 设计到 test 和 其他 Bean 的目录结构等等, Spring 的扫描是基于包名，而不是源代码物理目录
 * SQL: `to_date('2025-08-11 13:23:32', 'YYYYY-MM-DD HH24:MI:SS')`
 * JAVA: `simpledateFormat("yyyy-MM-dd HH:mm:ss")`
+
+## Week 3
+
+2025.8.22
+
+* 正式开始了 SpringBoot 的学习
