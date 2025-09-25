@@ -45,5 +45,15 @@
 
 * 初步了解了什么是 VIP, 什么是 LVS, 学习到了服务器上挂载的 FTP服务器实际上是 VIP, 可以保证高可用和负载均衡
 * 看完了 Docker 进阶, 复习了 Docker 知识, 复习了交换机和路由器
+* 了解了 Java classpath 的概念
+* 巩固了 @Controller 和 @RestController 的区别
+* 看完了 SpringBoot 教程的前期准备工作, 开始实操员工管理系统
+
+2025.9.25
+
+* 复习了 Java 基本类型的一些基础: 大小类型之间转换, char 类型的本质
+* 了解了 ASCII, Unicode 和 UTF-8 之间的关系
+* 了解了 Hikari 和 Druid 数据源, 一个是快, 一个是天然监控
+* SpringBoot 看到了整合 SpringSecurity
 
 
