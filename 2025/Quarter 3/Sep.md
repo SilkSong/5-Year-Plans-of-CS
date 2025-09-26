@@ -56,4 +56,7 @@
 * 了解了 Hikari 和 Druid 数据源, 一个是快, 一个是天然监控
 * SpringBoot 看到了整合 SpringSecurity
 
+2025.9.26
 
+* 看完了 SpringBoot 教程, 了解了 SpringSecurity 框架, 对异步任务 定时任务 有了初步的了解
+* 对 Java 面向对象的概念有了更深的理解, 比如多态, 抽象类, 接口，继承等等, 对 final, static, private, protected 关键字有了更清晰的理解
