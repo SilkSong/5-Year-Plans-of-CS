@@ -60,3 +60,7 @@
 
 * 看完了 SpringBoot 教程, 了解了 SpringSecurity 框架, 对异步任务 定时任务 有了初步的了解
 * 对 Java 面向对象的概念有了更深的理解, 比如多态, 抽象类, 接口，继承等等, 对 final, static, private, protected 关键字有了更清晰的理解
+
+2025.9.30
+
+* 在火车上看完了 Redis，了解到了多种数据类型，Redis 集成 SpringBoot，Redis 基本的事务和乐观锁，Redis RDB 和 AOF 持久化，Redis 订阅模式，主从集群，哨兵模式以及缓存击穿，穿透，雪崩等
