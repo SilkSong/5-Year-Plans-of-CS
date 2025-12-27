@@ -38,3 +38,13 @@
 
 * Hello-Agents 看完了第三章, 主要了解了大模型的发展历程和核心架构的演进
 * JUC 并发重新学习了 Lock, 生产者和消费者问题以及了解了虚假唤醒
+
+
+2025.12.27
+
+* 通过项目中传入一个 boolean, 改成传入一个 List<boolean>, 更深刻的体会到了 Java 值传递的机制
+* 粗看完了 Hello-Agents 的第四章, 对于 ReAct, Reflection 和 Plan-And-Solve 范式有了初步的了解, 跑完了示例代码。
+* 重新复习了静态代理: 其中开启线程的 start0 是 OS层面来调度, 最终回调后线程调用 run 方法
+* 重新复习了 lambda 表达式
+* 对线程的六种状态有了更深刻的理解
+* 对 Lock, Synchronized 关键字对于线程状态的改变, 控制的层面有了更清晰的认识
