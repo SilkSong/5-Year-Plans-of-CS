@@ -55,3 +55,8 @@
 * 了解了线程池的创建方法，执行策略, 核心线程数，最大线程数，队列等参数的真实含义
 * 复习了生产者与消费者模式, 线程间通信的方式, 特别的, notify 后线程只是从 WAITING 状态变到了 BLOCKED 状态, 只有锁消失后，线程才会变为 RUNNABLE
 * 彻底搞弄了虚假唤醒问题, 并且更深刻的理解了 synchronzied 方法和 wait() 会释放锁的特性
+
+2025.12.31
+
+* 2025年的最后一天, 在停了几天后重新开始,希望以一个好的姿态迈入2026年。学习了 Lock 版本的生产者与消费者，实际上就是用 condition 的方法取代了原来的 Object 方法
+* 稍微深入的了解了一些并发集合类: `CopyOnWriteArrayList` `CopyOnWriteArraySet` `ConcurrentHashMap` 等, 简单了解了他们 COW 的机制
