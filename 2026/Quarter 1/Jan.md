@@ -30,4 +30,11 @@
 * 开始 Dify 的智能体编排, 昨天简单跑了 Code 的智能体编排
 * 开始学习 JVM
 
+2026.1.7
+
+* 复习了 JDK, JRE, JVM 三者之间的关系
+* 踩了一个 windows 上关于换行符的坑, LF `\n` 和 CRLF `\r\n`
+* JVM 视频看完了栈, 方法区和 Native
+* 编排 Dify 还是没有搞通，暂时放弃, 运行了 AutoGen 的框架代码
+
 
