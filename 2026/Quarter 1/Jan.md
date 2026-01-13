@@ -54,3 +54,10 @@
 
 * 快速看完了 Hello-Agents 的第七章: 构建你的 Agent 框架
 * 开始看 MySQL 教程, 看完了前五章
+
+2026.1.13
+
+* 看完了 MySQL 教程的 6-14 章
+* 明白了 `nohup sh xx.sh` 和 `nohup sh xx.sh &` 的区别
+* 记忆了 grep -E "apple|banana" 的用法
+* 快速看完了 Hello-Agents 的第八章: 记忆与检索, 并没有运行完所有的代码, 需要配置的东西有点多，只是大致过完了整个内容
