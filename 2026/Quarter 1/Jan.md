@@ -92,3 +92,8 @@
 2026.1.20
 
 * 重新看 Hello-Agents 的第四章, 花了大量时间重新温习 Python 的语法逻辑, 逐步调试完成了一个 ReAct 的案例, 对所有类和方法的实现都过了一遍
+
+2026.1.24
+
+* 看完了Hello-Agents 第四章, 对 ReAct, Plan-and-solve, Reflection 框架都有了较为熟悉的认知, 完成了习题
+* 成功调试成功并发布了第一个 Coze 智能体
