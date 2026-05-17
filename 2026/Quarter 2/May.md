@@ -17,6 +17,9 @@
 
 2026.5.14
 
-* 看完了 hello-agents 的
+* 看完了 hello-agents 的第六章, 四个智能体框架: AutoGen, AgentScope, LangGraph 和 CAMEL, 并没有很细致的看代码, 找 API 把代码跑起来花了很多功夫, 明天开始看第七章, 搭建自己的智能体框架
 
+2026.5.17
+
+* 看完了 hello-agents 的第七章, 开始搭建自己的智能体框架
 
