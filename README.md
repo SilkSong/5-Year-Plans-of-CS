@@ -51,7 +51,13 @@ Top of Mind:
 2. 2025年通过公司项目对 ML & DL 取得一定的进步
 3. 完成3门公开课: CS61A, MIT Missing Semester, MIT 6.031, 在公开课自学上打好基础
 
-### 完成情况:
+## 2026
+
+Top of Mind:
+
+Agent
+
+
 
 
 

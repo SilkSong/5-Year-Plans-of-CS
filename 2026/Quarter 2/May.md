@@ -23,3 +23,10 @@
 
 * 看完了 hello-agents 的第七章, 开始搭建自己的智能体框架
 
+## Week 3
+
+2026.5.20
+
+* 开始看 hello-agents 的第八章, 经过一番折腾, 配好了 Qdrant, Neo4j, Embedding 模型, 开始跑基本的 Memory py 文件
+* 看完了李宏毅老师的 加快语言模型生成速度: Flash Attention 一节, 本质上是通过洞察 GPU 搬运数据以及计算数据的方式,  直接计算了 output
+
