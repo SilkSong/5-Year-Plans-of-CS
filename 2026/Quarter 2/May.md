@@ -30,3 +30,12 @@
 * 开始看 hello-agents 的第八章, 经过一番折腾, 配好了 Qdrant, Neo4j, Embedding 模型, 开始跑基本的 Memory py 文件
 * 看完了李宏毅老师的 加快语言模型生成速度: Flash Attention 一节, 本质上是通过洞察 GPU 搬运数据以及计算数据的方式,  直接计算了 output
 
+2026.5.21
+
+* 对 Flash Attention 中介绍的 HBM, SRAM 有了一定的了解
+* 知道了 Mac 有一个 MPS (Metal Performance Shaders) 后端可以在 PyTorch 上进行 GPU 计算
+
+2026.5.22
+
+* 快速的看完了 hello-agent 的第八章记忆模块, 开始看第九章 上下文工程
+* 看完了李宏毅老师的 加快语言模型生成速度: KV Cache 一节
