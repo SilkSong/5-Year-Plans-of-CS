@@ -53,3 +53,10 @@
 * 整理了一些零散知识: HBM (高带宽内存) SRAM (静态随机存储器) MPS
 * 了解了一种词嵌入的算法 BM25, 比 TF-IDF 要更优秀
 * MySQL 上所有 varchar 的总数不能超过 65535
+
+2026.5.26
+
+* 读完了 OpenAI 的 A practical guide to building agents 和 Anthropic 的 Building effective agents 两篇文章
+* 看完了 hello-agent 的第六章和第七章前半段
+* 看到了一篇好文, [things-you-didnt-know-about-indexes](https://jon.chrt.dev/2026/04/15/things-you-didnt-know-about-indexes.html), 数据库索引的 trade-off, 让我更清晰了
+* 重新听了 whynotTV n+e 的访谈, 还没听完, 差异化, 锻炼自己的整体逻辑能力是我现在需要做的
