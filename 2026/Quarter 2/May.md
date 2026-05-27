@@ -60,3 +60,8 @@
 * 看完了 hello-agent 的第六章和第七章前半段
 * 看到了一篇好文, [things-you-didnt-know-about-indexes](https://jon.chrt.dev/2026/04/15/things-you-didnt-know-about-indexes.html), 数据库索引的 trade-off, 让我更清晰了
 * 重新听了 whynotTV n+e 的访谈, 还没听完, 差异化, 锻炼自己的整体逻辑能力是我现在需要做的
+
+2026.05.27
+
+* 开始看 OpenAI 的 function call
+* 花了一些时间看了 Python 的一些知识: Pydantic, List, Dict, Any, TypedDict, Literal, Pylance 等一些静态检查的东西 @classmethod, abc 等一系列在 hello-agent 中出现的知识点
