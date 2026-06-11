@@ -31,3 +31,8 @@
 * 在 CodeX 中生动的体验了 **Skill**, 包括金谷园Skill和傲娇反击技能, 第一次手动创建了一个 skill, 并且对比验证了显式触发和隐式触发它们的效果, 简单了解了 skill 的工作原理: **按需加载和渐进式披露**, 在大模型的上下文中, 会把 skill 的 metadata 加载进去, 如果符合某一个描述, 才会加载具体的 skill 内容。更深刻的体会了 AGENTS.md, skill, rule, spec, plan 这几个文档的用法
 * 第一次使用了 `git cherry-pick`, 把功能分支的某一个commit合并到了 dev
 
+2026.06.11
+
+* 清理了一些 Tab 页和未读, 看了几个 Claude Code 的 skill 相关视频
+* 重新写了五年计划, 制定了一个半年的 Agent 学习求职计划, 专门建立了一个项目, 莫名触发了 CodeX 的 goal 模式, 尝试让 CodeX 在这段旅程中帮助我。
+
