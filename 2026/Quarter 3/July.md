@@ -10,3 +10,7 @@
 
 * 再次看完了 hello-agent 的记忆与检索章节, 更加注重功能和架构设计
 * 阅读了 OpenAI 的 Dreaming 博客
+
+2026.07.08
+
+* 再次粗看完了 hello-agent 的上下文工程章节
