@@ -34,3 +34,8 @@
 
 * 重看了 hello-agent 的上下文工程, 本质上还是一种系统工程, 随着 LLM 能力 (上下文窗口, 推理能力) 的增强, 如何组织各种内容填充上下文窗口让模型可以产生更好的回答, 这些内容来自 1. 用户提问 2. 系统提示词 3. 记忆 4. 外部知识库, MCP, Skill 等等, 如何结构化他们, 形成的一套最佳实践的方法论
 * 文章中的上下文工程包括 GSSC 流水线, NoteTool 和 TerminalTool
+
+
+2026.07.18
+
+* 开始看 learn-claude-code 这个仓库, 第一次接触到了 Anthropic API, OpenAI chat completion 和 response API, 通过单步调试 Debug, 对 agent loop 有了更深刻的理解, 对 tool call 有了更深入的理解, 看完了 registry, permission, hook 到了第四章。
