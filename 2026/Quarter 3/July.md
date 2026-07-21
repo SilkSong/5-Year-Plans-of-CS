@@ -28,7 +28,7 @@
 * 看完了生成式AI导论的第七章, Pre-train -> SFT -> RLHF 三阶段早就知道, 但看完这节课才对每个阶段的作用以及意义有了更清晰的认识, 例子非常的生动
 * hello-agent 对于记忆系统中 Qdrant, Neo4j 和 SQLite 的存储有了更深入的理解, 对于 RAG pipline 的工作流, MarkItDown后分块然后词嵌入然后索引到原文的流水线也有了更深入的理解
 
-## Week 3.
+## Week 3
 
 2026.07.14
 
@@ -39,3 +39,9 @@
 2026.07.18
 
 * 开始看 learn-claude-code 这个仓库, 第一次接触到了 Anthropic API, OpenAI chat completion 和 response API, 通过单步调试 Debug, 对 agent loop 有了更深刻的理解, 对 tool call 有了更深入的理解, 看完了 registry, permission, hook 到了第四章。
+
+## Week 4
+
+2026.07.20
+
+* 看learn-claude-code仓库, 看完了todo(计划), subagent, skill 和 compact 四个章节, subagent 和 skill 都是比较直觉的, todo 也很好理解, 新增提示词, 更新 todo, compact 比较复杂, 还需要再理解一下
