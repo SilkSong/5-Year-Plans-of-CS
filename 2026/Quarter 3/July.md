@@ -45,3 +45,7 @@
 2026.07.20
 
 * 看learn-claude-code仓库, 看完了todo(计划), subagent, skill 和 compact 四个章节, subagent 和 skill 都是比较直觉的, todo 也很好理解, 新增提示词, 更新 todo, compact 比较复杂, 还需要再理解一下
+
+2026.07.21
+
+* 看 learn-claude-code仓库, 认真的把 compact, memory, system_prompt 三节看完了, compact 是四级压缩管线和兜底调用, memory 是按需加载, 每次调用前加载, 调用后更新记忆和巩固, system_prompt 是根据上下文灵活加载, 都认真的把整个流程看明白了
