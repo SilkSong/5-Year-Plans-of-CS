@@ -49,3 +49,7 @@
 2026.07.21
 
 * 看 learn-claude-code仓库, 认真的把 compact, memory, system_prompt 三节看完了, compact 是四级压缩管线和兜底调用, memory 是按需加载, 每次调用前加载, 调用后更新记忆和巩固, system_prompt 是根据上下文灵活加载, 都认真的把整个流程看明白了
+
+2026.07.22
+
+* 看 learn-claude-code仓库,认真的看完了 error_recovery, task_system 和 background_task 三个章节, error_recovery 学习了指数退避+随机抖动 以及重试机制, 以及 try catch 和异常捕获机制, task_system 生动的体会了创建工具, 以及智慧由 LLM 调度的核心思想, background_task 更是真的掌握了并发和并行的区别, Python GIL 的限制以及对于 IO密集型和CPU密集型任务的不同理解, 以及 Python 的多线程编程的一些类和方法的介绍, Python的 threading.lock 是不可重入的互斥锁, 学习 Agent 果然就是在学习新时代的操作系统
