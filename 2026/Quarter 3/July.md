@@ -53,3 +53,12 @@
 2026.07.22
 
 * 看 learn-claude-code仓库,认真的看完了 error_recovery, task_system 和 background_task 三个章节, error_recovery 学习了指数退避+随机抖动 以及重试机制, 以及 try catch 和异常捕获机制, task_system 生动的体会了创建工具, 以及智慧由 LLM 调度的核心思想, background_task 更是真的掌握了并发和并行的区别, Python GIL 的限制以及对于 IO密集型和CPU密集型任务的不同理解, 以及 Python 的多线程编程的一些类和方法的介绍, Python的 threading.lock 是不可重入的互斥锁, 学习 Agent 果然就是在学习新时代的操作系统
+
+2026.07.25
+
+* 继续看 learn-claude-code仓库, 看完了 cron-task, agent-team, team-protocal 三个章节, 越来越难了。
+
+2026.07.26
+
+* 最有收获的是彻底搞清楚了 CodeX worktree 的原理和工作流, 包括并行工作流和 handoff 工作流, 感觉非常好
+* 看完了 learn-claude-code 仓库的 autonomous 一节, 还提交了一个 issue, 经历了 team-protocol 一节, 这一节似乎也没有那么难
