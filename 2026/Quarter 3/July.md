@@ -62,3 +62,13 @@
 
 * 最有收获的是彻底搞清楚了 CodeX worktree 的原理和工作流, 包括并行工作流和 handoff 工作流, 感觉非常好
 * 看完了 learn-claude-code 仓库的 autonomous 一节, 还提交了一个 issue, 经历了 team-protocol 一节, 这一节似乎也没有那么难
+
+## Week 5
+
+2026.07.27
+
+* 看完了 learn-claude-code 的 s19:mcp, 第二十章汇总还没有看, 有时间把汇总看完, 这个步骤才是提炼所有的精华内化为自己的知识的步骤
+
+2026.07.28
+
+* 把 GIL和多线程, *args 和  **k
