@@ -16,3 +16,11 @@
 * 深度研究基本的 ReAct 框架, 并用 Anthropic API 重写了该流程, 理解了框架是如何让输出标准化的: 模型训练 trajectory, API Schema约束, 并且简单了解了 strict 参数的 grammar-constrained sampling 保证工具名称和参数符合 Schema
 * 重新又看完了 hello-agent 的第四章: 三种基本范式和第七章:Agent框架, 对于比如说兼容 OpenAI 原生 function call 等部分现在都有了新的认知, 之前都不知道的
 * 对于 Python 语法, @classmethod @abstractmethod 有了新的认知, 一个是修饰类方法, 一个是继承ABC类后定义的抽象方法, 强制子类实现才可以实例化
+
+2026.08.21
+
+* 看完了 hello-agent 的记忆系统
+
+2026.08.23
+
+* 看完了 hello-agent 的上下文工程
