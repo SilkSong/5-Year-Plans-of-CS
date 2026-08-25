@@ -31,3 +31,7 @@
 2026.08.24
 
 * 重新开始看 learn-claude-code, 看完了 s01~s05, agent loop, tool use, permission, hook, todo-write, 受益良多
+
+2026.08.25
+
+* 继续看 learn-claude-code, 看完了sub-agent, skill, compress 三个章节, subagent, skill 都挺直接, compress 一节是四层的压缩管线, 先落盘, 再裁剪, 再替换旧结果, 最后生成摘要, 并且提供了压缩工具(不注册进 TOOL_HANDER, 因为如果注册的话, 所有的工具依次顺序调用, 如果压缩工具在前, 就会在所有其他工具调用前就发生了压缩) 并且调用压缩工具时确保所有该轮次工具调用完成, 再摘要整个批次, 并且在 loop 的时候永远把当次用户原始请求作为单独变量传递, 防止压缩丢失原始用户需求, 细节非常多
