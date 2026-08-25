@@ -24,3 +24,10 @@
 2026.08.23
 
 * 看完了 hello-agent 的上下文工程
+
+
+## Week 4
+
+2026.08.24
+
+* 重新开始看 learn-claude-code, 看完了 s01~s05, agent loop, tool use, permission, hook, todo-write, 受益良多
