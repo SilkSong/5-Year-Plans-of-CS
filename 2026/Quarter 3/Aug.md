@@ -39,3 +39,15 @@
 2026.08.26
 
 * 继续看 learn-claude-code, 看完了 memory, task-system, memory 就是在每次模型调用前, 进行一次单独的模型调用选择是否加载记忆, 然后每次 loop 结束后进行一次单独的模型调用选择是否把值得持久化的内容写到记忆里, 并且会有一个记忆的 consolidation。Task-system 实现起来就更简单了, 你只需要把工具定义好, 实现好, 工程做好, 模型会去做剩下的一切, 核心loop不需要更改。
+
+2026.08.27
+
+* 继续看 learn-claude-code, 认真读完了 background-task, 重新复习了一下 Python 多线程, 以及读写共享数据时需要保证多个操作的原子性的加锁问题。在学习 background-task 的过程中, **学会了断点调试带有主线程和子线程的程序**
+* 今天还初步调研了 OpenSpec, Spec Kit 和 Superpowers 等工具, 并用 OpenSpec 的完整流程给 Melody's Blog 这个项目增加了暗黑模式, 后续期待在 B1 项目上逐渐使用 OpenSpec 看看效果
+
+
+## Week 5
+
+2026.08.31
+
+* 看了 learn-claude-code 的定时任务, 三个线程来实现后台任务的定时触发, 学习了 Python 的一些多线程开发的知识, 比如 Event 作为开关的作用, 
